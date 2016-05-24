@@ -1,0 +1,6 @@
+npm install -g typescript
+
+npm install tsd -g
+
+tds install angular --resolve --save
+
