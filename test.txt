@@ -6,6 +6,7 @@ npm install -g http-server
 
 
 tds install angular --resolve --save
+tds install angular-resource --save
 
 var gulp = require('gulp');
 var ts = require('gulp-typescript');
