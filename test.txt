@@ -7,6 +7,8 @@ npm install -g http-server
 
 tds install angular --resolve --save
 tds install angular-resource --save
+tds install angular-mocks --save
+tds install angular-route --save
 
 var gulp = require('gulp');
 var ts = require('gulp-typescript');
